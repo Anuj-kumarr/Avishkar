@@ -26,12 +26,11 @@ led string light
 ∗ 4. LED string lights can be used as energy-efficient pathway lighting for both residential and commercial
 spaces.
 
-## Demo Video Link:
-  <a href="">Video Link (GDrive)</a>
+
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/17r6TE0Z6Cx7Rt2-qhZ3AGaeYzySl9YqI/edit?usp=sharing&ouid=110391493864560233657&rtpof=true&sd=true"> Presentation Link (PPT) </a>
-## Achivement:
+## Achievement:
  <a href="https://drive.google.com/file/d/1FUshvG2G_kdehgFyYJBTo7sssQRGv2pO/view?usp=sharing">Achievement Certificate </a>
 
   
