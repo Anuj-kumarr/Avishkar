@@ -40,6 +40,7 @@ spaces.
   3) ldr
   4) solar panel
   5) wires
+  6) servo motor
      
   
 
