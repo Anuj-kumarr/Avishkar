@@ -1,47 +1,55 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=60px> </a>
+<a href="https://culrav-avishkar.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW88oOY1a-HfVDfY9nKIwp30NZcrDgrb741w&s" height=60px> </a>
 
 
 ## Introduction:
-  <b>Theme : </b>   Developers Productivity & Collaboration Tools
+  <b>Theme : </b>   arduino solar tracker and led string light
   <br>
   <b>Intoduction : </b> <br>
-  Snippeter is a web-based application that is aimed towards helping the developers to create & use their snippets across any platform like leetcode, Atcoder, GeekForGeeks, Codechef,etc. It helps users to copy snippet to their clipboard instantly. An AI assistant to help the new coders to help them in generating snippets for algorithms.
+  arduino solar tracker
+  ∗ 1.This project focuses on designing solar panel that can track maximum irradiance on it’s surface
+∗ 2.LDR sensors measures the intensity of light
+∗ 3.Arduino microcontroller receives input from the sensor and control the movement of solar panel accordingly.
+∗ 4.Tools & technologies used: arduino uno,dc motor,Light dependent resistor,wires
+∗ 5.It detects the light and rotate in that direction.
+∗ 6.It is used to improve efficiency of solar panel.
+∗ 7. Automated Sun Tracking.
+∗ 8.Improved Return on Investment (ROI).
+<br>
+led string light
+∗ 1.Optocoupler can detect changes in light intensity and act as the input to your LED control system.
+∗ 2.Arduino UNO is used
+∗ 3. LDR(Light Detecting Resistor) is used .
+∗ 3.Energy-Efficient Pathway Lighting.
+∗ 4. LED string lights can be used as energy-efficient pathway lighting for both residential and commercial
+spaces.
+
 ## Demo Video Link:
-  <a href="https://drive.google.com/file/d/1uzPr_7Ea-7SqTBLMlrz9xfBAB43X0voY/view?usp=sharing">Video Link (GDrive)</a>
+  <a href="">Video Link (GDrive)</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1YqeakNF8LXx0gfIiRNypLNCaytSiXRht3npBCVCCLZ4/edit?usp=sharing"> Presentation Link (PPT) </a>
+  <a href="https://docs.google.com/presentation/d/17r6TE0Z6Cx7Rt2-qhZ3AGaeYzySl9YqI/edit?usp=sharing&ouid=110391493864560233657&rtpof=true&sd=true"> Presentation Link (PPT) </a>
   
-  
-## Table of Contents:
-  Features :
-  <ul>
-    <li>User Authentication</li>
-    <li>Create/Copy/Share/Edit/Delete their snippets</li>
-    <li>AI Chat bot with supervised learning to create snippets</li>
-    <li>Compiler for running codes with input</li>
-    <li>Global Snippets Library to access other’s snippets</li>
-    <li>Search Functionality</li>
-  </ul>
+
 
 ## Technology Stack:
-  1) Mongoose DB
-  2) ReactJS Frontend with Tailwind CSS
-  3) Node JS
-  4) Express JS
+  1) arduino uno
+  2) leds
+  3) ldr
+  4) solar panel
+  5) wires
+     
   
 
 ## Contributors:
 
-Team Name: GuruDev
-
-* [Manish Kumar](https://github.com/itsManish01)
-* [Ayush Singh](https://github.com/Ayush7Singh)
-* [Mahendra Singh](https://github.com/0mahendra)
-
+* Anuj kumar
+* Anril maurya
+* Aditya Narayan
+* Gaurav kumar
+* Anurag yadav
 
 ### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=60px> </a>
+<a href="https://culrav-avishkar.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW88oOY1a-HfVDfY9nKIwp30NZcrDgrb741w&s" height=60px> </a>
